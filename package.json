@@ -9,6 +9,8 @@
   "author": "Robert Steven Delgado Peralta",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^6.10.0"
   }
 }
